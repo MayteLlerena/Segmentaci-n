@@ -41,6 +41,6 @@ Para este proyecto, llevé a cabo la limpieza de datos. Apliqué el modelo RFM p
 
 ## Segmentación | Dashboard en Looker Studio
 
-![Segmentación]()
+![Segmentación](https://raw.githubusercontent.com/MayteLlerena/Segmentacion/main/Dashboard%20-%20Segmentaci%C3%B3n%20de%20clientes%20mediante%20la%20metodolog%C3%ADa%20RFM.png)
 
 
