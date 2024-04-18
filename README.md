@@ -24,10 +24,11 @@ Para este proyecto, llevé a cabo la limpieza de datos. Apliqué el modelo RFM p
 
 | **Procesar y preparar la base de datos**  | **Análisis exploratorio** | **Técnica de análisis** |
 |---|---|---|
-| ▪️ Dataset con tres tablas en Google Sheets | 
-| ▪️ Identificar nulos a través de fórmulas, como COUNTBLANK |
-| ▪️ Identificar duplicados a través de las herramientas de Google Sheets| 
-| ▪️ Identificar registros que no son relevantes para el propósito del análisis |
-| ▪️ Unir tablas en hojas de cálculo a través de fórmulas como VLOOKUP |
+| ▪️ Dataset con tres tablas en Google Sheets | ▪️ Agrupar datos según variables categóricas | ▪️ Creación de las categorías de clientes según los cuartiles de las variables utilizando la fórmula IFS |
+| ▪️ Identificar nulos utilizando COUNTBLANK | ▪️ Visualizar las variables categóricas |
+| ▪️ Identificar duplicados a través de las herramientas de Google Sheets| ▪️ Aplicar fórmula de cuartiles para dividir clientes en grupos en referencia al RFM | 
+| ▪️ Identificar registros que no son relevantes para el propósito del análisis | 
+| ▪️ Unión de tablas utilizando VLOOKUP |
+| ▪️ Creación de nuevas variables utilizando MONTH, YEAR, SUM | 
 
 
