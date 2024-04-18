@@ -1,14 +1,20 @@
 # <h1 align="center"> Análisis y segmentación de clientes mediante la metodología RFM  </h1>
 
-Para este proyecto, llevé a cabo la limpieza de datos. Apliqué el modelo RFM para segmentar a los clientes y utilicé el análisis de cohorte para comprender su comportamiento, calculando el porcentaje de retención mes a mes. Esto me permitió obtener una visión integral del comportamiento del cliente.
+El Mercado es una tienda especializada en productos alimenticios importados, y se encuentra en un entorno altamente competitivo con cambios significativos en las preferencias de los consumidores, busca mantener y aumentar sus ingresos mediante una mejor comprensión de sus clientes y estrategias de marketing personalizadas. La estrategia adoptada implica analizar las ventas y segmentar la base de clientes utilizando la metodología RFM (Recency, Frequency, Monetary Value) para tomar decisiones estratégicas basadas en datos.
 
 ## Objetivo del proyecto
 
+A través de esta segmentación, se busca lograr los siguientes objetivos:
 
+▪️ Mejor Comprensión de la Base de Clientes: Identificar quiénes son los clientes más valiosos, cuáles son sus patrones de compra y qué factores influyen en su lealtad hacia la marca.
+
+▪️ Personalización de Estrategias de Marketing y Retención: Utilizar los insights obtenidos de la segmentación RFM para diseñar estrategias de marketing y retención más efectivas y personalizadas. Esto incluye adaptar ofertas promocionales, programas de fidelización y comunicaciones de marketing según las necesidades y comportamientos específicos de cada grupo de clientes.
+
+▪️ Toma de Decisiones Estratégicas Basadas en Datos: Utilizar la información derivada de la segmentación RFM para tomar decisiones estratégicas informadas, como ajustar inventarios, optimizar la distribución de productos y asignar recursos de manera más eficiente para maximizar los ingresos y la retención de clientes.
 
 ## Insumos
 
-
+El conjunto de datos está disponible para descargar en este enlace 'https://bit.ly/445mkxS'
 
 ## Herramientas que se usaron para el análisis
 
