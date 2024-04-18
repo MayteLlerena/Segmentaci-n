@@ -35,6 +35,10 @@ Para este proyecto, llevé a cabo la limpieza de datos. Apliqué el modelo RFM p
 | ▪️ Unión de tablas utilizando VLOOKUP |
 | ▪️ Creación de nuevas variables utilizando MONTH, YEAR, SUM | 
 
+## Chequea este proyecto en Google Sheets
+
+▪️ Aquí 'https://bit.ly/3xPbIqG'
+
 ## Segmentación | Dashboard en Looker Studio
 
 ![Segmentación]()
