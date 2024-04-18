@@ -4,7 +4,11 @@ Para este proyecto, llevé a cabo la limpieza de datos. Apliqué el modelo RFM p
 
 ## Objetivo del proyecto
 
+
+
 ## Insumos
+
+
 
 ## Herramientas que se usaron para el análisis
 
@@ -30,5 +34,9 @@ Para este proyecto, llevé a cabo la limpieza de datos. Apliqué el modelo RFM p
 | ▪️ Identificar registros que no son relevantes para el propósito del análisis | 
 | ▪️ Unión de tablas utilizando VLOOKUP |
 | ▪️ Creación de nuevas variables utilizando MONTH, YEAR, SUM | 
+
+## Segmentación | Dashboard en Looker Studio
+
+![Segmentación]()
 
 
